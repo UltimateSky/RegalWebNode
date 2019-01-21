@@ -1,0 +1,29 @@
+{
+  "name": "regalwebnode",
+  "version": "1.0.0",
+  "description": "Regal Website/Blog in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltimateSky/RegalWebNode.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Chas Rivers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UltimateSky/RegalWebNode/issues"
+  },
+  "homepage": "https://github.com/UltimateSky/RegalWebNode#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-edge": "^1.0.0",
+    "mongoose": "^5.4.5",
+    "nodemon": "^1.18.9",
+    "startbootstrap-clean-blog": "^5.0.2"
+  }
+}
