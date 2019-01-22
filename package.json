@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/UltimateSky/RegalWebNode#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "express-edge": "^1.0.0",
     "mongoose": "^5.4.5",
